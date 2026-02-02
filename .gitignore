@@ -1,0 +1,15 @@
+# Ignore all node_modules (frontend + backend)
+node_modules/
+
+# Env files
+.env
+.env.*
+
+# Build outputs
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
